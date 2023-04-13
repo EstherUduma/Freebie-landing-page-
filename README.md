@@ -4,6 +4,8 @@
 This project happens to be my first landinng page project. It's a landing page for a gift site that enables customers buy gifts online. The site allows customers to select the type of gifts they would like to purchase; either a birthday, valentine's day, anniversary or christmas gift. 
 <br />
 
+<h2>Hosted Page Link</h2>
+https://freebie-landing-page-.esther-annann.repl.co
 
 <h2>Languages and Utilities Used</h2>
 
