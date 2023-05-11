@@ -5,7 +5,7 @@ This project happens to be my first landinng page project. It's a landing page f
 <br />
 
 <h2>Hosted Page Link</h2>
-https://freebie-landing-page-.esther-annann.repl.co
+https://estheruduma.github.io/Freebie-landing-page-/
 
 <h2>Languages and Utilities Used</h2>
 
